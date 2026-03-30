@@ -1,5 +1,3 @@
-# Expedita-Showcase
-
 # Expedita - Sistema de Gestión Inter-Áreas 🚀
 
 > **Nota:** El código fuente de este proyecto se encuentra en un repositorio privado por razones de seguridad y propiedad intelectual. Este repositorio funciona como demostración (Showcase) de la arquitectura, funcionalidades y tecnologías implementadas.
